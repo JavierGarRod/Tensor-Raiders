@@ -1,0 +1,10 @@
+# Dependencias (La carpeta que quieres evitar subir)
+node_modules/
+
+# Caché de Angular y compilación
+.angular/
+dist/
+
+# Archivos del sistema y de configuración del editor
+.DS_Store
+.vscode/
