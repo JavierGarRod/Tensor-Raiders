@@ -1,0 +1,11 @@
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\BackendApplication.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\controller\EquipoController.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\DataLoader.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\exception\EquipoNotFoundException.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\exception\GlobalExceptionHandler.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\exception\NombreDuplicadoException.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\model\Equipo.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\model\EquipoDTO.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\model\Participante.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\repository\EquipoRepository.java
+C:\Users\angel\Tensor-Raiders\tensor-raiders-equipos\proyecto\backend\src\main\java\tensor\raiders\backend\service\EquipoService.java
