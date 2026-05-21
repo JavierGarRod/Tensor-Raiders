@@ -96,7 +96,7 @@ Accede en: http://localhost:8080/h2-console
 ```bash
 cd frontend
 npm install
-ng serve
+npm run start
 ```
 
 La aplicación arranca en **http://localhost:4200**
